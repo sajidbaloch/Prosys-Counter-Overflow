@@ -32,7 +32,7 @@
         "node-red": "*",
         //"node-red-contrib-play-audio": "*",
         //"node-red-contrib-web-worldmap": "~2.0.8",
-        "node-red-dashboard": "~2.15.0",
+        "node-red-dashboard": "~2.19.3",
         "node-red-contrib-opcua": "*"
         //"node-red-node-base64": "*",
         //"node-red-node-geofence": "*",
